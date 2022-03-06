@@ -5,7 +5,7 @@ echo 'IMIE:$name<br>';
 
 //heredoc
 $surname="NOWAK";
-$city="POZNAN";
+$city="POZNan";
 echo <<< E
 imie i nazwisko: $name $surname <br>
 Miasto:$city
